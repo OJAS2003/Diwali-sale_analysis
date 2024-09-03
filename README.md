@@ -8,7 +8,11 @@ Data Visualization: Utilized various visualization techniques to present insight
 Tools Used:
 
 Python: For data manipulation and analysis.
+
 Pandas: For data cleaning and preprocessing.
+
 Matplotlib & Seaborn: For data visualization.
+
 Jupyter Notebook: For interactive analysis and code documentation.
+
 Outcome: The analysis provided valuable insights into customer preferences and sales trends during Diwali, offering data-driven recommendations for optimizing future sales strategies and marketing efforts.
